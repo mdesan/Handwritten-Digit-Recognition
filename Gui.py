@@ -48,7 +48,7 @@ with col2:
 st.divider()
 
 #Interactive Section
-st.write('Test')
+st.write('Demo')
 
 
 test_data = pd.read_csv("test.csv")
@@ -67,7 +67,7 @@ def display_random_image():
 
 display_random_image()
 
-if st.button('Display a new image'):
+if st.button('Show a new image'):
     st.session_state.current_idx = random.randint(0, num_of_rows - 1)
     st.rerun()
 
