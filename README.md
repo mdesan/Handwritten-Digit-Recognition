@@ -1,12 +1,12 @@
 # Handwritten Digit Recognition using a Neural Network
 
-This project implements a neural network to recognize handwritten digits (0-9). I used Streamlit to display the model's results and allow users to test the model on random images from an unseen dataset.
+This project implements a neural network to recognize handwritten digits (0-9). I used [Streamlit](https://streamlit.io/). to display the model's results and allow users to test the model on random images from an unseen dataset.
 
 ![Streamlit Interface](screenshot.png)
 
 ## Dataset
 
-Datasets obtained from [GeeksforGeeks](https://www.geeksforgeeks.org/).
+Datasets obtained from [GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/handwritten-digit-recognition-using-neural-network/).
 
 ## Installation
 
