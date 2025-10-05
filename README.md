@@ -10,14 +10,22 @@ Datasets obtained from [GeeksforGeeks](https://www.geeksforgeeks.org/).
 
 ## Installation
 
+1. Clone Repository:
 ```bash
 git clone https://github.com/mdesan/Handwritten-Digit-Recognition.git
+cd Handwritten-Digit-Recognition
 ```
 
-**Note**: The model is pre-trained. Run Main.py to retrain model which overwrites the relevant files(optional).
+2. Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-Run
+3. Run
 ```bash
 streamlit run Gui.py
 ```
 to open GUI in browser.
+
+**Note**: The model is pre-trained and ready to use. To retrain model (optional), run Main.py. This overwrites existing model files:
+
