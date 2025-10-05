@@ -4,7 +4,7 @@ This project implements a neural network to recognize handwritten digits (0-9). 
 
 ![Streamlit Interface](screenshot.png)
 
-## Datasets
+## Dataset
 
 Datasets obtained from [GeeksforGeeks](https://www.geeksforgeeks.org/).
 
